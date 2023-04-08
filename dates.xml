@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dates>
+  <Date>
+    <date>10-10-2010</date>
+    <name>lol</name>
+    <country>Russia</country>
+    <type>War</type>
+    <die>1</die>
+  </Date>
+	<Date>
+		<date>10-10-2010</date>
+		<name>lol</name>
+		<country>Russia</country>
+		<type>War</type>
+		<die>1</die>
+	</Date>
+</dates>
